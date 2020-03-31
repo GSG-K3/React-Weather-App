@@ -1,4 +1,5 @@
 
+
 # React Weather App
 
 # What
@@ -23,8 +24,8 @@ As a user you can press getweather to get the weather status<br>
 - clone these repo:
 
 ```
- git clone https://github.com/GSG-K3/react-weather.git
- cd react-weather
+ git clone https://github.com/GSG-K3/React-Weather-App.git
+ cd React-Weather-App
 ```
 
 - install node modules:
