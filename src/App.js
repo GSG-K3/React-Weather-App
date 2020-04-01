@@ -2,11 +2,16 @@ import React, { Component } from "react";
 import Form from './Components/Form';
 import Weather from './Components/Weather';
 
-
+//const API_KEY =
 class App extends Component {
-  getWeather = (e) => {
+  
+  getWeather = async (e) => {
     e.preventDefault()
-  console.log("Weather")
+  //console.log("Weather")
+    const city = e.target.elements.city.value;
+    //console.log(city)
+    const api = await fetch(URL)
+    const data = await api.json();   
 }
   render() {
     return (

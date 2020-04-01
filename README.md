@@ -18,6 +18,7 @@ As a user you can enter the country name<br>
 As a user you can press getweather to get the weather status<br>
 
 ## How to use our website !!:
+ 
 
 ### In terminal
 
@@ -35,6 +36,7 @@ As a user you can press getweather to get the weather status<br>
    ``
   ```
 
+ 
 # sketch
 
 ![planing](https://user-images.githubusercontent.com/56642598/78006553-d6afbb00-7345-11ea-9e0d-fa0f710098fd.png)
