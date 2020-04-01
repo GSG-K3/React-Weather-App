@@ -18,7 +18,12 @@ class App extends Component {
       <div className="App">
         <p>WHAT'S THE WEATHER?</p>
         <Form getWeather={this.getWeather} />
-        <Weather />
+        <Weather
+          Temprature={this.state.Temprature}
+        Weather={this.state.Weather}
+        WindSpeed={this.state.WindSpeed}
+        Humidity={this.state.Humidity}
+        />
 
       </div>
     );
